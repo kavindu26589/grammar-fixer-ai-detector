@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+huggingface_hub
+accelerate
+scikit-learn
